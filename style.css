@@ -1,0 +1,57 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	background:#757e86;
+	color:rgb(194, 187, 187)!important;
+	text-align:center!important;
+}
+nav{
+	min-height:120px;
+	padding:0!important;
+	display:block!important;
+}
+nav small{
+	font-size:1.3rem!important;
+	
+}
+.navbar-brand{
+	font-size:2rem;
+
+	width:100%;
+}
+.title{
+	font-size:1.5rem;
+}
+.col{
+	padding:20px;
+	background:#53585d;
+}
+.row in{
+	padding:20px;
+	background:white!important;
+}
+
+.main{
+	border:2px solid rgb(153, 150, 150);
+	
+	margin-top:50px;
+}
+.heading{
+	 height:70px!important;
+	 text-align: center!important;
+	 display: flex;
+	 align-items: center;
+	 font-size:2rem;
+	 font-weight:700;
+}
+.tags{
+	color:white!important;
+}
+.box{
+	width:600px!important;
+	background:white;
+}
+.footer{
+	background:transparent;
+	color:rgb(228, 224, 224)!important;
+}
+
